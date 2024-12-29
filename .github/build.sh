@@ -60,3 +60,6 @@ python .github/scripts/file/gen_search_index.py
 python .github/scripts/file/analysis_search_index.py
 
 echo "Search index generated successfully!"
+
+rm profile/README.md
+cp README.md profile/README.md
