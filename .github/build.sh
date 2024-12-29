@@ -47,6 +47,7 @@ python .github/scripts/file/add_config.py
 echo "Metadata added successfully!"
 
 # Generate table of contents
+python .github/scripts/toc/independence_info.py
 python .github/scripts/toc/her_toc.py
 
 echo "Table of contents generated successfully!"
