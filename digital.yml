@@ -20,3 +20,4 @@ ignore:
   - 'page\.yml'
   - 'search_index\.yml'
   - '.*profile.*'
+  - '.*independence_repo.*'
