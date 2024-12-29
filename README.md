@@ -30,6 +30,13 @@ Github 主页： <https://github.com/cdtsf-library>
 总计 32416 篇内容
 
 
+### 📚 独立档案库与网站
+
+- [成人性转小说档案馆: https://snovel.cdtsf.com](https://snovel.cdtsf.com) (4536 篇内容)
+- [TSF 变身文学档案馆（短篇）: https://archive.cdtsf.com](https://archive.cdtsf.com) (10105 篇内容)
+- [阉割与人体改造中文档案馆: https://enovel.cdtsf.com](https://enovel.cdtsf.com) (1699 篇内容)
+- [扶他与双性中文档案馆: https://fnovel.cdtsf.com](https://fnovel.cdtsf.com) (402 篇内容)
+
 
 > 本内容为自动生成，请修改 .github/ 目录下的对应脚本或者模板
 
