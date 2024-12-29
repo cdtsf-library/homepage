@@ -4,5 +4,12 @@ curator: ''
 source: ''
 tags: []
 license: ''
-files: []
+files:
+- name: independence_repo
+  filename: independence_repo.json
+  type: other
+  format: Unknown Format
+  size: 653
+  md5: 0db13cfb95e9148eda90000fcfa9a496
+  page: independence_repo.json
 subdirs: []
