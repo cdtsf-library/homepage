@@ -27,7 +27,7 @@ Github 主页： <https://github.com/cdtsf-library>
 根目录，按照内容与来源分类
 
 
-总计 32417 篇内容
+总计 32416 篇内容
 
 
 ### 📚 独立档案库与网站
@@ -37,10 +37,6 @@ Github 主页： <https://github.com/cdtsf-library>
 - [阉割与人体改造中文档案馆: https://enovel.cdtsf.com](https://enovel.cdtsf.com) (1699 篇内容)
 - [扶他与双性中文档案馆: https://fnovel.cdtsf.com](https://fnovel.cdtsf.com) (402 篇内容)
 
-
-### 📎 其他
-
-- [independence_repo](independence_repo.json)
 
 > 本内容为自动生成，请修改 .github/ 目录下的对应脚本或者模板
 
